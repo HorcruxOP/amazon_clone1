@@ -1,0 +1,1 @@
+ D:\\Flutter\ projects\\amazon_clone1\\.dart_tool\\flutter_build\\103fce9a9e0f6aa5280a0dd7acaf2a72\\native_assets.yaml: 
